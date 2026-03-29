@@ -1,6 +1,12 @@
 # Projeto QA - Testes de Login
 
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![QA](https://img.shields.io/badge/QA-Manual-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+
 Este projeto contém casos de teste manuais para validar a funcionalidade de login de um sistema web.
+
+
 
 ## 📌 Objetivo
 Praticar e demonstrar conhecimentos em testes de software (QA), incluindo:
