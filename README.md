@@ -1,12 +1,24 @@
 # Projeto QA - Testes de Login
 
-Este repositório contém casos de teste manuais para funcionalidade de login.
+Este projeto contém casos de teste manuais para validar a funcionalidade de login de um sistema web.
 
-## Cenários testados:
-- Login com sucesso
-- Senha inválida
-- Email inválido
-- Campos vazios
+## 📌 Objetivo
+Praticar e demonstrar conhecimentos em testes de software (QA), incluindo:
+- Testes funcionais
+- Testes negativos
+- Validação de campos
 
-## Objetivo:
-Praticar testes manuais e documentação QA
+## 🧪 Casos de Teste
+- CT-002: Login com senha inválida
+- CT-003: Campo de senha vazio
+- CT-004: Login com sucesso
+- CT-005: Email inválido
+- CT-006: Campos vazios
+
+## 🛠️ Ferramentas
+- Testes manuais
+- Documentação em Markdown
+
+## 🚀 Próximos passos
+- Automatizar testes com Cypress
+- Testar APIs
