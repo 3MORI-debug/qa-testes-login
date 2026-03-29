@@ -22,3 +22,9 @@ Praticar e demonstrar conhecimentos em testes de software (QA), incluindo:
 ## 🚀 Próximos passos
 - Automatizar testes com Cypress
 - Testar APIs
+
+## 👨‍💻 Autor
+Projeto desenvolvido por Felipe Rodrigues Tavares de Oliveira.
+
+## 📈 Status
+Em evolução contínua (aprendizado em QA e automação de testes)
